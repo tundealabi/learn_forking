@@ -7,3 +7,6 @@ body{
     border: 20px;
     display: block;
 };
+h1{
+    color: green;
+};
